@@ -1,0 +1,6 @@
+{
+  "name": "QualifyRTO Vocational Management System",
+  "description": "Vocational education and RTO compliance management system with student lifecycle, offline field assessments, credential checking, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
